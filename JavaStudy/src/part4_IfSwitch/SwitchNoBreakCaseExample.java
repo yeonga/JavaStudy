@@ -1,4 +1,4 @@
-package part4_1_if_switch;
+package part4_IfSwitch;
 
 public class SwitchNoBreakCaseExample {
 

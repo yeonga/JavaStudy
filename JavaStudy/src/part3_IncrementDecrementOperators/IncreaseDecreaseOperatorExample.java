@@ -1,4 +1,4 @@
-package part3_2;
+package part3_IncrementDecrementOperators;
 
 public class IncreaseDecreaseOperatorExample {
 

@@ -1,4 +1,4 @@
-package part5;
+package part5_referenceType;
 
 public class ArrayLengthExample {
 
