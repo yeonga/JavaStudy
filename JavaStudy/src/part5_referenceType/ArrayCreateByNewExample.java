@@ -5,7 +5,7 @@ public class ArrayCreateByNewExample {
 	// new 연산자로 배열 생성 - 타입 [] 변수 = new 탸입[길이];
 	// 타입 [] 변수 = null;
 	// 변수 = new 타입[길이];
-	// => new 연산자로 배열을 처음 생송할 경우 배열은 자동적으로 기본값으로 초기화됨. 기본타입 (정수)-0/ (실수)-0.0/
+	// => new 연산자로 배열을 처음 생성할 경우 배열은 자동적으로 기본값으로 초기화됨. 기본타입 (정수)-0/ (실수)-0.0/
 	// (논리)-false/ 참조타입 - null
 
 	public static void main(String[] args) {
