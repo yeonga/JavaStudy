@@ -7,6 +7,7 @@ import java.io.FileOutputStream;
 import java.io.InputStream;
 import java.io.OutputStream;
 
+// 성능 향상 보조 스트림 
 public class BufferedStreamExample {
 	public static void main(String[] args) throws Exception {
 		// 기본 스트림 생성

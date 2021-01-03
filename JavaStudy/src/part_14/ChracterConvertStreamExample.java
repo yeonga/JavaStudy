@@ -7,7 +7,8 @@ import java.io.OutputStreamWriter;
 import java.io.Reader;
 import java.io.Writer;
 
-public class CaracterConvertStreamExample {
+//문자 변환 보조 스트림 
+public class ChracterConvertStreamExample {
 	public static void main(String[] args) throws Exception {
 
 		write("문자 변환 스트림을 사용합니다.");

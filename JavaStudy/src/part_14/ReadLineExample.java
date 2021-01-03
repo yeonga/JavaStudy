@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.Reader;
 
+// 라인 단위로 문자열 읽기 
 public class ReadLineExample {		//BfferedReader는 readLine() 메소드를 제공함. 
 
 	public static void main(String[] args) throws Exception {
