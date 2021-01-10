@@ -19,8 +19,29 @@
 </ul>
 
 <h4> 💡Ch06 - <a href="https://github.com/yeonga/JavaStudy/blob/main/JavaStudy/src/part6_class/test.md"> 클래스 ⭐ </a></h4>
-<ul>
-   <li><a href="#">패키지와 접근 제한자</a></li>
+<ul>	
+   <li> 생성자 
+   	<ul><a href="https://github.com/yeonga/JavaStudy/blob/main/JavaStudy/src/part6_class/Korean.java"> 1. 필드 초기화 </a></ul>
+  	<ul><a href="https://github.com/yeonga/JavaStudy/blob/main/JavaStudy/src/part6_class/KoreanExample.java"> 객체 생성 후 필드 값 출력 </a></ul>
+  	<ul><a href="https://github.com/yeonga/JavaStudy/blob/main/JavaStudy/src/part6_class/Car_Overloading.java"> 2. 생성자 오버로딩 </a></ul>
+  	<ul><a href="https://github.com/yeonga/JavaStudy/blob/main/JavaStudy/src/part6_class/Car_OverloadingExample.java"> 객체 생성 시 생성자 선택 </a></ul>	
+  	<ul><a href="https://github.com/yeonga/JavaStudy/blob/main/JavaStudy/src/part6_class/Car_Overloading_This.java"> 3. 다른 생성자를 호출해서 중복 코드 줄이기 </a></ul>
+  	<ul><a href="https://github.com/yeonga/JavaStudy/blob/main/JavaStudy/src/part6_class/Car_Overloading_ThisExample.java"> 객체 생성 시 생성자 선택 </a></ul>
+  </li>
+</ul>
+<ul>	
+   <li> 메소드 
+   	<ul><a href="https://github.com/yeonga/JavaStudy/blob/main/JavaStudy/src/part6_class/Korean.java"> 1. 클래스 내부에서 메소드 호출 </a></ul>
+  	<ul><a href="https://github.com/yeonga/JavaStudy/blob/main/JavaStudy/src/part6_class/KoreanExample.java"> Calculator의 execute 실행 </a></ul>
+  	<ul><a href="https://github.com/yeonga/JavaStudy/blob/main/JavaStudy/src/part6_class/Car_Overloading.java"> 2. 생성자 오버로딩 </a></ul>
+  	<ul><a href="https://github.com/yeonga/JavaStudy/blob/main/JavaStudy/src/part6_class/Car_OverloadingExample.java"> 객체 생성 시 생성자 선택 </a></ul>	
+  	<ul><a href="https://github.com/yeonga/JavaStudy/blob/main/JavaStudy/src/part6_class/Singleton.java"> 3. 싱글톤 (Singleton) </a></ul>
+  	<ul><a href="https://github.com/yeonga/JavaStudy/blob/main/JavaStudy/src/part6_class/SingletonExample.java"> 싱글톤 객체 </a></ul>
+  	<ul><a href="https://github.com/yeonga/JavaStudy/blob/main/JavaStudy/src/part6_class/Person.java"> 4. final 필드 선언과 초기화 </a></ul>
+  	<ul><a href="https://github.com/yeonga/JavaStudy/blob/main/JavaStudy/src/part6_class/PersonExample.java"> final 필드 테스트 </a></ul>
+  	<ul><a href="https://github.com/yeonga/JavaStudy/blob/main/JavaStudy/src/part6_class/Earth.java"> 5. 상수 선언 </a></ul>
+  	<ul><a href="https://github.com/yeonga/JavaStudy/blob/main/JavaStudy/src/part6_class/EarthExample.java"> 상수 사용 </a></ul>  	
+  </li>
 </ul>
 
 <h4> 💡Ch07 - <a href="https://github.com/yeonga/JavaStudy/blob/main/JavaStudy/src/part6_class/test.md"> 상속 ⭐⭐⭐ </a></h4>
@@ -76,5 +97,5 @@
    <li><a href="https://github.com/yeonga/JavaStudy/blob/main/JavaStudy/src/part_14/Character_WriteExample.java"> 문자 출력 스트림 : Writer </a></li>
    <li><a href="https://github.com/yeonga/JavaStudy/blob/main/JavaStudy/src/part_14/Character_ReadExample.java"> 문자 입력 스트림 : Reader </a></li>
    <li><a href="https://github.com/yeonga/JavaStudy/blob/main/JavaStudy/src/part_14/ChracterConvertStreamExample.java"> 문자 변환 보조 스트림 </a></li>
-   <li><a href="https://github.com/yeonga/JavaStudy/blob/main/JavaStudy/src/part_14/BufferedStreamExample.java"> ⭐⭐ 성능 향상 보조 스트림 : Buffered ⭐⭐</a></li>
+   <li><a href="https://github.com/yeonga/JavaStudy/blob/main/JavaStudy/src/part_14/test.md"> ⭐⭐ 성능 향상 보조 스트림 : Buffered ⭐⭐</a></li>
 </ul>
