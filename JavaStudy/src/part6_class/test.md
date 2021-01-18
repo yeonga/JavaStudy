@@ -150,12 +150,13 @@
 	</li>
 </ul>
 <ul>
-	<li> Getter와 Setter 메소드  
+	<li>  ⭐⭐ Getter와 Setter 메소드 ⭐⭐  
 		<ul>
-			<li> 1. public 접근 제한자 : 외부 클래스가 자유롭게 사용 가능 (어디서든 가능) </li>
-			<li> 2. protected 접근 제한자 : 같은 패키지 내 or 다른 패키지에서 속한 클래스가 해당 클래스의 자식 클래스라면 생성자 호출 가능  </li>
-			<li> 3. private 접근 제한자 : 같은 클래스 내에서만 사용 가능 / 같은 패키지 or 다른 패키지에서 둘 다 생성자 호출 불가능X - Car myCar = new Car(); 객체 생성 불가능!! </li>
-			<li> + 4. default 접근 제한자 : 같은 패키지에 소속된 클래스에서만 사용할 수 있음 (public을 생략하면 default 제한 가짐)</li>
+			<li> 객체지향프로그래밍 -> 객체의 필드를 객체 외부에서 직접적으로 접근하는 것을 막음 (객체의 무결성이 깨지는 것을 방지) </li>
+			<li> Getter : 외부에서 객체의 데이터(저장되있는 곳 : 필드)를 읽을 때 getter 메소드 사용 / getMid와 같이 get 다음엔 대문자로 시작  </li>
+			<li> Setter : 필드 값을 변경할 때 setter 메소드 사용 (메소드는 매개값을 검증해서 유효한 값만 객체의 필드로 저장할 수 있기 때문) / setMid와 같이 set 다음엔 대문자로 시작 </li>
+			<li> + 필드 타입이 boolean일 경우에는 Getter는 get이 아닌 is로 시작함 (ex.getStop이 아닌 isStop 메소드가 됨) </li>
+			<li> + 외부에서 필드 값을 읽을 수만 있고 변경하지 못하도록 하려면(읽기 전용) Getter 메소드만 선언하거나 Setter 메소드가 private 접근 제한을 갖도록 선언 해야함 </li>
 		</ul>
 	</li>
 </ul>
