@@ -16,7 +16,7 @@
    <li><a href="https://github.com/yeonga/JavaStudy/blob/main/JavaStudy/src/part5_referenceType/ArrayInArrayExample.java"> (다차원) 배열 속의 배열 </a></li>
    <li><a href="https://github.com/yeonga/JavaStudy/blob/main/JavaStudy/src/part5_referenceType/ArrayReferenceObjectExample.java">객체를 참조하는 배열</a></li>
    <li><a href="https://github.com/yeonga/JavaStudy/blob/main/JavaStudy/src/part5_referenceType/AdvancedForExample.java"> 향상된 for문 </a></li>
-</ul>
+</ul>    
 
 <h4> 💡Ch06 - <a href="https://github.com/yeonga/JavaStudy/blob/main/JavaStudy/src/part6_class/test.md"> 클래스 ⭐ </a></h4>
 <ul>	
