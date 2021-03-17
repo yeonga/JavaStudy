@@ -62,14 +62,14 @@
    <li><a href="#">익명객체</a></li>  
 </ul>
 
-<h4> 💡Ch010 - <a href="https://github.com/yeonga/JavaStudy/blob/main/JavaStudy/src/part6_class/test.md"> 예외 처리  </a></h4>
+<h4> 💡Ch010 - <a href="https://github.com/yeonga/JavaStudy/blob/main/JavaStudy/src/part6_class/test.md"> 예외 처리 </a></h4>
 <ul>
    <li><a href="#">List</a></li>
    <li><a href="#">Set</a></li>
    <li><a href="#">Map</a></li>
 </ul>
 
-<h4> 💡Ch011 - <a href="https://github.com/yeonga/JavaStudy/blob/main/JavaStudy/src/part6_class/test.md"> 기본 API 클래스  </a></h4>
+<h4> 💡Ch011 - <a href="https://github.com/yeonga/JavaStudy/blob/main/JavaStudy/src/part6_class/test.md"> 기본 API 클래스 </a></h4>
 <ul>
    <li><a href="#">List</a></li>
    <li><a href="#">Set</a></li>
